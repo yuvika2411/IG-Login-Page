@@ -1,4 +1,4 @@
-## 📸 Instagram Login Page Clone
+# 📸 Instagram Login Page Clone
 A responsive and visually accurate Instagram login page clone built using HTML, CSS, and JavaScript. 
 This project replicates the core UI and basic interactivity of the Instagram login experience for frontend learning and design practice.
 
